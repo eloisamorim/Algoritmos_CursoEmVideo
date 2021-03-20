@@ -1,0 +1,11 @@
+
+*.csproj
+*.json
+*.dll
+*.exe
+*.pdb
+*.props
+*.targets
+*.cache
+*.txt
+Lista de Exercícios - Algoritmos/003_Lógica de Programação/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
